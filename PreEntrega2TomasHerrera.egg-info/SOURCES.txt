@@ -1,0 +1,8 @@
+setup.py
+PreEntrega2TomasHerrera.egg-info/PKG-INFO
+PreEntrega2TomasHerrera.egg-info/SOURCES.txt
+PreEntrega2TomasHerrera.egg-info/dependency_links.txt
+PreEntrega2TomasHerrera.egg-info/top_level.txt
+mi_paquete_cliente/__init__.py
+mi_paquete_cliente/cliente.py
+mi_paquete_cliente/main.py
